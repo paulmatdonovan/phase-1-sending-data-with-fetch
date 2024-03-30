@@ -1,30 +1,106 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "66b9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1803",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "d503",
+      "name": "Roger",
+      "email": "roger@hotmail.com"
+    },
+    {
+      "id": "0eab",
+      "name": "Roger",
+      "email": "roger@hotmail.com"
+    },
+    {
+      "id": "7730",
+      "name": "Roger",
+      "email": "roger@hotmail.com"
+    },
+    {
+      "id": "b372",
+      "name": "Roger",
+      "email": "roger@hotmail.com"
+    },
+    {
+      "id": "e1a4",
+      "name": "Roger",
+      "email": "roger@hotmail.com"
+    },
+    {
+      "id": "2586"
+    },
+    {
+      "id": "d7e2"
+    },
+    {
+      "id": "4f8d"
+    },
+    {
+      "id": "9c72"
+    },
+    {
+      "id": "1a24"
+    },
+    {
+      "id": "0fe1"
+    },
+    {
+      "id": "72c7"
+    },
+    {
+      "id": "7261"
+    },
+    {
+      "id": "5e9e"
+    },
+    {
+      "id": "05a4"
+    },
+    {
+      "id": "3fb2"
+    },
+    {
+      "id": "dc92"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
